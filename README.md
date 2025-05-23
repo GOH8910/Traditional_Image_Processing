@@ -1,6 +1,6 @@
 # Traditional Image Processing Tutorials
 
-This repository contains a set of beginner-to-intermediate image processing exercises implemented in Python using OpenCV and NumPy. Each script demonstrates a core image processing concept through practical examples.
+This repository documents my learning process in image processing, featuring beginner-to-intermediate level exercises implemented in Python using NumPy, SciPy, and Matplotlib. Each script reflects a core concept I explored through hands-on experimentation.
 
 ## 📂 Contents
 
@@ -35,23 +35,6 @@ Techniques used:
 - Edge detection using gradient kernels
 
 ---
-
-## 🧰 Requirements
-
-- Python 3.x
-- NumPy
-- OpenCV
-- SciPy
-- Matplotlib
-
-Install with:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🧠 About This Project
 
 These scripts were created as part of my self-guided learning in traditional image processing. Each file is focused and minimal to help reinforce core concepts through code.
